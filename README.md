@@ -34,6 +34,7 @@ By Jose Angel Gonzalez
 **Ride Duration:**
 - Casual riders tend to have longer ride durations compared to annual members, indicating that casual riders might use bikes more for leisure rather than communting.
 (visualization 1: ride duration Comparison)
+![My Webpage](/assets/img/eeg_band_discovery.jpeg)
 
 **Usage by Day of the Week:**
 - Annual members show consistent usage througout the workweek, while casual riders predominantly use bikes on weekends, sugesting a leisure-oriented pattern.
@@ -57,4 +58,4 @@ By Jose Angel Gonzalez
   - The analysis provides a clear understanding of how casual riders and annual members differ in their usage of Cyclistic's bike-share service. By targeting specific user behaviors and preferences, Cyclistic can effectively convert more casual riders into loyal annual members, ensureing sustained growth and profitability.
 
 #### Go back to my Webpage
-  - Objective:
+![My Webpage](Jose_AGonzalez.GitHub.io)
