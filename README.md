@@ -27,21 +27,21 @@ By Jose Angel Gonzalez
 - Trips with a duration exceeding 24 hours were identified as outliers and excluded to maintain a realistic view of ride behaviors.
 #### 5. User Type Classification:
 - Data was segmented into 'Casual Riders' and 'Members' based on the 'user type' field for comparative analysis.
-![Execution Graph](Images/ExecutionGraph.png)
+#### [Execution Graph](Images/ExecutionGraph.png)
 
 ## Analysis Summary
 ### Key Findings:
 
 **Ride Duration:**
 - Casual riders tend to have longer ride durations compared to annual members, indicating that casual riders might use bikes more for leisure rather than communting.
-![Ride Duration](Images/RideDuration_UsageDaily.png)
+#### [Ride Duration](Images/RideDuration_UsageDaily.png)
 
 **Usage by Day of the Week:**
 - Annual members show consistent usage througout the workweek, while casual riders predominantly use bikes on weekends, sugesting a leisure-oriented pattern.
 
 **Station Usage:**
 - Casual riders frequently start and en teir trips at stations near tourist attractions and parks, while annual members are more likely to use stations near business districts and residential areas.
-![Station Usage](Images/StationUsage.png)
+#### [Station Usage](Images/StationUsage.png)
 
 ### [Cyclistic Dashboard](https://public.tableau.com/app/profile/jose.gonzalez.ramirez/viz/Cyclistic_17262131192190/CyclisticNY)
 
