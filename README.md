@@ -20,8 +20,7 @@ By Jose Angel Gonzalez
 #### 1. Data Import:
 - The dataset was imported 
 #### 2. Filtering:
-- Trips with null values in critical fileds like 'end station name' were filtered out to ensure data integrity.
-#### [Query](https://github.com/Grandpa-3/Cyclistic/blob/main/ExecutionGraph.png?raw=true)
+- Trips with null values in critical fileds like 'end station name' were filtered out to ensure data integrity. [View Query](https://github.com/Grandpa-3/cyclistic_prework/blob/main/Cyclistic.sql)
 
 #### 3. Date Parsing:
 - a calculated field was created to extract the day of the week from the 'start time', facilitating the analysis of weekly ride patterns.
@@ -46,7 +45,7 @@ By Jose Angel Gonzalez
 - Casual riders frequently start and en teir trips at stations near tourist attractions and parks, while annual members are more likely to use stations near business districts and residential areas.
 #### ![Station Usage](https://github.com/Grandpa-3/Cyclistic/blob/43daf19bdf43f79e8639bd8efaf433a1fedf8bda/StationUsage.png)
 
-### [Cyclistic Dashboard](https://public.tableau.com/app/profile/jose.gonzalez.ramirez/viz/Cyclistic_17262131192190/CyclisticNY)
+### [Click to see Cyclistic Dashboard](https://public.tableau.com/app/profile/jose.gonzalez.ramirez/viz/Cyclistic_17262131192190/CyclisticNY)
 
 
 ## Recommendatons:
