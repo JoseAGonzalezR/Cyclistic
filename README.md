@@ -57,4 +57,4 @@ By Jose Angel Gonzalez
 ## Conclusion
   - The analysis provides a clear understanding of how casual riders and annual members differ in their usage of Cyclistic's bike-share service. By targeting specific user behaviors and preferences, Cyclistic can effectively convert more casual riders into loyal annual members, ensureing sustained growth and profitability.
 
-## [Go back to my Webpage]([Jose_AGonzalez.GitHub.io](https://github.com/Grandpa-3/Jose_AGonzalez.github.io))
+## [Go back to my Webpage](https://github.com/Grandpa-3/Jose_AGonzalez.github.io)
