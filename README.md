@@ -34,7 +34,6 @@ By Jose Angel Gonzalez
 **Ride Duration:**
 - Casual riders tend to have longer ride durations compared to annual members, indicating that casual riders might use bikes more for leisure rather than communting.
 (visualization 1: ride duration Comparison)
-![My Webpage](/assets/img/eeg_band_discovery.jpeg)
 
 **Usage by Day of the Week:**
 - Annual members show consistent usage througout the workweek, while casual riders predominantly use bikes on weekends, sugesting a leisure-oriented pattern.
@@ -43,6 +42,9 @@ By Jose Angel Gonzalez
 **Station Usage:**
 - Casual riders frequently start and en teir trips at stations near tourist attractions and parks, while annual members are more likely to use stations near business districts and residential areas.
 (Visualization 3: Station Usage Heatmap)
+
+###[Cyclistic Dashboard](https://public.tableau.com/app/profile/jose.gonzalez.ramirez/viz/Cyclistic_17262131192190/CyclisticNY)
+
 
 ## Recommendatons:
 
