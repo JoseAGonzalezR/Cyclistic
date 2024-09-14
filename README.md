@@ -21,6 +21,8 @@ By Jose Angel Gonzalez
 - The dataset was imported 
 #### 2. Filtering:
 - Trips with null values in critical fileds like 'end station name' were filtered out to ensure data integrity.
+#### [Query](https://github.com/Grandpa-3/Cyclistic/blob/main/ExecutionGraph.png?raw=true)
+
 #### 3. Date Parsing:
 - a calculated field was created to extract the day of the week from the 'start time', facilitating the analysis of weekly ride patterns.
 #### 4. Outlier Removal:
