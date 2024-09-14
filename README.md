@@ -43,7 +43,7 @@ By Jose Angel Gonzalez
 - Casual riders frequently start and en teir trips at stations near tourist attractions and parks, while annual members are more likely to use stations near business districts and residential areas.
 (Visualization 3: Station Usage Heatmap)
 
-###[Cyclistic Dashboard](https://public.tableau.com/app/profile/jose.gonzalez.ramirez/viz/Cyclistic_17262131192190/CyclisticNY)
+### [Cyclistic Dashboard](https://public.tableau.com/app/profile/jose.gonzalez.ramirez/viz/Cyclistic_17262131192190/CyclisticNY)
 
 
 ## Recommendatons:
