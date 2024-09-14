@@ -1,4 +1,4 @@
-# Cyclistic Bike-share Analysis Case Study
+# Cyclistic Bike-Share Analysis Case Study
 By Jose Angel Gonzalez
 
 ## Business Task
@@ -17,15 +17,15 @@ By Jose Angel Gonzalez
 ## Data Cleaning and Preparation
 - BigQuery was used for all data cleaning and preparation tasks
 ### Steps:
-1. Data Import:
-- Teh dataset was imported 
-2. Filtering:
+#### 1. Data Import:
+- The dataset was imported 
+#### 2. Filtering:
 - Trips with null values in critical fileds like 'end station name' were filtered out to ensure data integrity.
-3. Date Parsing:
+#### 3. Date Parsing:
 - a calculated field was created to extract the day of the week from the 'start time', facilitating the analysis of weekly ride patterns.
-4. Outlier Removal:
+#### 4. Outlier Removal:
 - Trips with a duration exceeding 24 hours were identified as outliers and excluded to maintain a realistic view of ride behaviors.
-5. User Type Classification:
+#### 5. User Type Classification:
 - Data was segmented into 'Casual Riders' and 'Members' based on the 'user type' field for comparative analysis.
 
 ## Analysis Summary
@@ -45,7 +45,7 @@ By Jose Angel Gonzalez
 
 ## Recommendatons:
 
-Based on the analysis, the following strategies are recommended:
+### Based on the analysis, the following strategies are recommended:
 #### 1. Targeted Marketing Campaigns:
 - Develop campaings focused on converting casual riders into members by emphasizing the benefits of memebership for frequent users, particularly for commuting.
 #### 2. Weekend Membership Iniciatives:
