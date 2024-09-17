@@ -36,7 +36,7 @@ By Jose Angel Gonzalez
 
 **Ride Duration:**
 - Casual riders tend to have longer ride durations compared to annual members, indicating that casual riders might use bikes more for leisure rather than communting.
-#### ![Execution Graph](https://github.com/Grandpa-3/Cyclistic/blob/401916d6feddfd60cf90ba3a868f119e50368b8b/RideDuration_UsageDaily.png)0
+#### ![Execution Graph](https://github.com/Grandpa-3/Cyclistic/blob/401916d6feddfd60cf90ba3a868f119e50368b8b/RideDuration_UsageDaily.png)
 
 **Usage by Day of the Week:**
 - Annual members show consistent usage througout the workweek, while casual riders predominantly use bikes on weekends, sugesting a leisure-oriented pattern.
