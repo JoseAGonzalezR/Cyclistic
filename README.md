@@ -47,6 +47,8 @@ By Jose Angel Gonzalez
 
 ### [Click to see Cyclistic Dashboard](https://public.tableau.com/app/profile/jose.gonzalez.ramirez/viz/Cyclistic_17262131192190/CyclisticNY)
 
+## Conclusion
+  - The analysis provides a clear understanding of how casual riders and annual members differ in their usage of Cyclistic's bike-share service. By targeting specific user behaviors and preferences, Cyclistic can effectively convert more casual riders into loyal annual members, ensureing sustained growth and profitability.
 
 ## Recommendatons:
 
@@ -57,8 +59,5 @@ By Jose Angel Gonzalez
 - Offer special incentives or discounts on annual memberships for users who frequently ride on weekends, encouraging them to consider membership for more regular use.
 #### 3. Leverage Digital Media:
 - use digital media channels to highlight membership advantages, such as cost savings and convenience, to casual riders, especially targeting areas around tourist attractions where casual ridership is high.
-
-## Conclusion
-  - The analysis provides a clear understanding of how casual riders and annual members differ in their usage of Cyclistic's bike-share service. By targeting specific user behaviors and preferences, Cyclistic can effectively convert more casual riders into loyal annual members, ensureing sustained growth and profitability.
 
 ## [Go back to my Webpage](https://JoseAGonzalezR.github.io/Jose_AGonzalez.github.io/)
